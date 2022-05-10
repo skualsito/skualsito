@@ -1,7 +1,7 @@
 # Hi! Soy Juan 👋
 
 
-💻 Actualmente estoy trabajando en "yendonollegando.com"
+💻 Actualmente estoy trabajando en [yendonollegando.com](https://yendonollegando.com/)
 
 🧠 Estoy aprendiendo: **NextJS**
 
