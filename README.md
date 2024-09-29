@@ -5,6 +5,5 @@ Soy un desarrollador full stack especializado en JavaScript con experiencia tant
 
 
 ## 🚀 Mis redes
-- [Instagram](https://www.instagram.com/juanalmadaa/)
 - [Twitter](https://twitter.com/JuanAlmadaa)
 
